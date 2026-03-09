@@ -1,0 +1,30 @@
+{
+  "Header": {
+    "title": "Chào mừng đến với Next.js",
+    "subtitle": "Để bắt đầu, hãy chỉnh sửa tệp page.tsx.",
+    "description": "Tìm kiếm điểm khởi đầu hoặc hướng dẫn thêm? Hãy truy cập {templates} hoặc trung tâm {learning}.",
+    "templates": "Mẫu",
+    "learning": "Học tập",
+    "deployButton": "Triển khai ngay",
+    "readDocs": "Đọc tài liệu",
+    "language": "Ngôn ngữ"
+  },
+  "seo": {
+    "title": "Hồng Thái – Thiết Kế Website Chuyên Nghiệp & Giải Pháp Marketing",
+    "description": "Hồng Thái cung cấp dịch vụ thiết kế website chuyên nghiệp với giao diện hiện đại, tối ưu trải nghiệm người dùng và giải pháp marketing số hiệu quả cho doanh nghiệp.",
+    "ogTitle": "Hồng Thái – Thiết Kế Website & Marketing Số Cho Doanh Nghiệp",
+    "ogDescription": "Khám phá dịch vụ thiết kế website chuẩn SEO, tối ưu chuyển đổi và giải pháp marketing số từ Hồng Thái để phát triển thương hiệu trực tuyến.",
+    "keywords": [
+      "Hồng Thái",
+      "thiết kế website",
+      "thiết kế web chuyên nghiệp",
+      "website doanh nghiệp",
+      "website chuẩn SEO",
+      "marketing số",
+      "thiết kế landing page",
+      "dịch vụ phát triển web",
+      "website tối ưu chuyển đổi",
+      "giải pháp marketing"
+    ]
+  }
+}

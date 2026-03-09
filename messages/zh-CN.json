@@ -1,0 +1,30 @@
+{
+  "Header": {
+    "title": "欢迎来到 Next.js",
+    "subtitle": "开始之前，请编辑 page.tsx 文件。",
+    "description": "想寻找起点或更多指导？请访问 {templates} 或 {learning} 学习中心。",
+    "templates": "模板",
+    "learning": "学习中心",
+    "deployButton": "立即部署",
+    "readDocs": "阅读文档",
+    "language": "语言"
+  },
+  "seo": {
+    "title": "Hong Thai｜专业网站设计与营销解决方案",
+    "description": "Hong Thai 提供专业的网站设计服务，拥有现代化界面、优化的用户体验，并为企业提供高效的数字营销解决方案。",
+    "ogTitle": "Hong Thai｜企业网站设计与数字营销服务",
+    "ogDescription": "了解 Hong Thai 的网站设计服务：SEO 友好结构、注重转化的页面布局，以及助力企业线上增长的数字营销解决方案。",
+    "keywords": [
+      "Hong Thai",
+      "网站设计",
+      "专业网站设计",
+      "企业网站",
+      "SEO网站",
+      "数字营销",
+      "落地页设计",
+      "网站开发服务",
+      "高转化网站",
+      "营销解决方案"
+    ]
+  }
+}

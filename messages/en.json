@@ -1,0 +1,30 @@
+{
+  "Header": {
+    "title": "Welcome to Next.js",
+    "subtitle": "To get started, edit the page.tsx file.",
+    "description": "Looking for a starting point or more guidance? Visit {templates} or the {learning} center.",
+    "templates": "Templates",
+    "learning": "Learning",
+    "deployButton": "Deploy Now",
+    "readDocs": "Read Documentation",
+    "language": "Language"
+  },
+  "seo": {
+    "title": "Hong Thai – Professional Website Design & Marketing Solutions",
+    "description": "Hong Thai provides professional website design services with modern UI, user-focused experience, and effective digital marketing solutions for businesses.",
+    "ogTitle": "Hong Thai – Website Design & Digital Marketing for Businesses",
+    "ogDescription": "Discover Hong Thai’s website design services with SEO-friendly structure, conversion-focused layouts, and digital marketing solutions to grow your business online.",
+    "keywords": [
+      "Hong Thai",
+      "website design",
+      "professional website design",
+      "business website",
+      "SEO website",
+      "digital marketing",
+      "landing page design",
+      "web development services",
+      "conversion-focused website",
+      "marketing solutions"
+    ]
+  }
+}
