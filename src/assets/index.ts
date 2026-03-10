@@ -8,3 +8,7 @@ export * from "./icons/IconBackgrounHero";
 export * from "./icons/IconArrowRightVerTwo";
 export * from "./icons/IconBackgroundHeroSectionBottom";
 export * from "./icons/IconCircle";
+export * from "./icons/IconLogoHongThaiFooter";
+export * from "./icons/IconTextHongThaiFooter";
+export * from "./icons/IconClose";
+export * from "./icons/IconMenu";

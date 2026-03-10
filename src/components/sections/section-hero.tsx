@@ -10,7 +10,7 @@ export default function HeroSection() {
         style={{ backgroundImage: "url('/images/bg-hero-section.webp')" }}
       />
 
-      <div className="mt-30 sm:mt-0 relative z-10 flex min-h-screen w-full items-center justify-center px-1.25 py-16 px-5 sm:px-4 md:px-5 lg:px-0">
+      <div className="mt-30 sm:mt-0 relative z-10 flex min-h-screen w-full items-center justify-center py-16 px-5 md:px-6 xl:px-0 lg:px-0">
         <div className="w-full max-w-205.25">
           <div className="text-center">
             <AnimateOnView from="left">
@@ -65,7 +65,7 @@ export default function HeroSection() {
 
               <AnimateOnView
                 from="left"
-                className="flex max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:p-5"
+                className="flex w-full max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:p-5"
               >
                 <IconCircle className="shrink-0 text-green-cus-200" />
                 <div className="flex flex-1 flex-col gap-1.75">
@@ -76,7 +76,7 @@ export default function HeroSection() {
 
               <AnimateOnView
                 from="right"
-                className="ml-8 flex max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:ml-15 sm:p-5"
+                className="ml-8 flex w-full max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:ml-15 sm:p-5"
               >
                 <IconCircle className="shrink-0 text-green-cus-300" />
                 <div className="flex flex-1 flex-col gap-1.75">
@@ -142,7 +142,7 @@ export default function HeroSection() {
 
               <AnimateOnView
                 from="right"
-                className="flex max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:p-5"
+                className="flex w-full max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:p-5"
               >
                 <IconCircle className="shrink-0 text-green-cus-200" />
                 <div className="flex flex-1 flex-col gap-1.75">
@@ -153,7 +153,7 @@ export default function HeroSection() {
 
               <AnimateOnView
                 from="left"
-                className="ml-8 flex max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:ml-15 sm:p-5"
+                className="ml-8 flex w-full max-w-37.5 items-center gap-3.25 rounded-xl bg-white-cus-300 p-4 sm:ml-15 sm:p-5"
               >
                 <IconCircle className="shrink-0 text-green-cus-300" />
                 <div className="flex flex-1 flex-col gap-1.75">
