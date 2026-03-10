@@ -11,6 +11,10 @@ import HeroSection from "@/src/components/sections/section-hero";
 import Header from "@/src/components/layouts/header";
 
 import "./globals.css";
+import { MarketingSection } from "@/src/components/sections/section-comprehensive-support";
+import { ContactSection } from "@/src/components/sections/contact-section";
+import { FaqSection } from "@/src/components/sections/faq-section";
+import { Footer } from "@/src/components/layouts/footer";
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -125,12 +129,12 @@ export default async function RootLayout({
         >
           <Header />
           <main className="w-full">
-            {/* {children} */}
-
             <HeroSection />
+            <MarketingSection />
+            <ContactSection />
+            <FaqSection />
           </main>
-
-          {/* Footer */}
+          <Footer />
         </body>
       </NextIntlClientProvider>
     </html>

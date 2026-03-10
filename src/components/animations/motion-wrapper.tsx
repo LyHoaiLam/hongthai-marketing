@@ -8,14 +8,15 @@ type Direction = "up" | "down" | "left" | "right";
 
 interface AnimateOnViewProps {
   children: ReactNode;
-  delay?: 0 | 100 | 200 | 300 | 400 | 500 | 600 | 700;
-  duration?: 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000;
+  delay?: 0 | 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000;
+  duration?: 100 | 200 | 300 | 400 | 500 | 600 | 700 | 800 | 900 | 1000;
   from?: Direction;
   className?: string;
   rootMargin?: string;
 }
 
 const durationClassMap = {
+  100: "duration-100",
   200: "duration-200",
   300: "duration-300",
   400: "duration-400",
@@ -36,6 +37,9 @@ const delayClassMap = {
   500: "delay-500",
   600: "delay-600",
   700: "delay-700",
+  800: "delay-800",
+  900: "delay-900",
+  1000: "delay-1000",
 };
 
 const fromClassMap = {
