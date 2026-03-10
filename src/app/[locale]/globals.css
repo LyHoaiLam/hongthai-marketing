@@ -10,6 +10,23 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+
+
+  --color-white-cus-100: #F2F2F2;
+  --color-white-cus-50: #808080;
+  --color-white-cus-200: #D4D4D4;
+  --color-white-cus-300: #F5F5F5;
+
+
+  --color-black-cus-300: #000;
+
+
+
+  --color-green-cus-200: #9DFF71;
+  --color-green-cus-300: #004930;
+  --color-green-cus-400: #103142;
+
 }
 
 @media (prefers-color-scheme: dark) {
@@ -37,4 +54,18 @@ input[type="time"] {
   line-height: 1;
   -webkit-appearance: none;
   appearance: none;
+}
+
+.header {
+  border-radius: var(--Spacing-spacing-24, 24px);
+  background: rgba(128, 128, 128, 0.20);
+  backdrop-filter: blur(9px);
+}
+
+
+.herosection-item-3 {
+  border-radius: var(--Spacing-spacing-24, 24px);
+  border: 1px solid #FFF;
+  background: rgba(255, 255, 255, 0.20);
+  backdrop-filter: blur(1.7000000476837158px);
 }

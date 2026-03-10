@@ -7,9 +7,10 @@ import { routing } from "@/src/i18n/routing";
 import { notFound } from "next/navigation";
 import { getMessages } from "next-intl/server";
 import { NextIntlClientProvider } from "next-intl";
+import HeroSection from "@/src/components/sections/section-hero";
+import Header from "@/src/components/layouts/header";
 
 import "./globals.css";
-
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -122,9 +123,12 @@ export default async function RootLayout({
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased`}
         >
-          {/* Header */}
+          <Header />
+          <main className="w-full">
+            {/* {children} */}
 
-          <main className="w-full">{/* {children} */}</main>
+            <HeroSection />
+          </main>
 
           {/* Footer */}
         </body>
