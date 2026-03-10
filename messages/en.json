@@ -26,5 +26,15 @@
       "conversion-focused website",
       "marketing solutions"
     ]
+  },
+
+  "HeroSection": {
+    "about": "About",
+    "services": "Services",
+    "solutions": "Solutions",
+    "projects": "Projects",
+    "reviews": "Reviews",
+    "contact": "Contact",
+    "getConsultationNow": "Get Consultation Now"
   }
 }

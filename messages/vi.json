@@ -26,5 +26,14 @@
       "website tối ưu chuyển đổi",
       "giải pháp marketing"
     ]
+  },
+  "HeroSection": {
+    "about": "Giới thiệu",
+    "services": "Dịch vụ",
+    "solutions": "Giải pháp",
+    "projects": "Dự án",
+    "reviews": "Đánh giá",
+    "contact": "Liên hệ",
+    "getConsultationNow": "Nhận tư vấn ngay"
   }
 }

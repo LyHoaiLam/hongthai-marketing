@@ -26,5 +26,14 @@
       "高转化网站",
       "营销解决方案"
     ]
+  },
+  "HeroSection": {
+    "about": "介绍",
+    "services": "服务",
+    "solutions": "解决方案",
+    "projects": "项目",
+    "reviews": "评价",
+    "contact": "联系我们",
+    "getConsultationNow": "立即获取咨询"
   }
 }
